@@ -20,11 +20,6 @@ A classic **Tic-Tac-Toe** game built in Java Swing featuring two game modes:
 - Computer AI picks moves randomly for casual fun  
 - Reset game button to start fresh  
 
----
-
-## Screenshots
-
-![Tic-Tac-Toe Screenshot](./images/tictactoe-screenshot.png)
 
 ---
 
