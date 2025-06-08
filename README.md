@@ -1,42 +1,31 @@
-<<<<<<< HEAD
+# ✅ ToDoApp (Java Swing)
+
+A lightweight desktop To-Do List application built using **Java Swing**, designed to help you organize tasks with **priorities**, **due dates**, and easy task management.
 
 ---
 
-# README for Tic-Tac-Toe Game (Java Swing)
+## 🧠 Key Features
 
-```markdown
-# Tic-Tac-Toe Game
-
-A classic **Tic-Tac-Toe** game built in Java Swing featuring two game modes:  
-- Player vs Player (1v1)  
-- Player vs Computer (1vC) with simple AI  
-
----
-
-## Features
-
-- Interactive 3x3 grid with responsive buttons  
-- Mode selection dialog at startup  
-- Win/draw detection with instant status updates  
-- Computer AI picks moves randomly for casual fun  
-- Reset game button to start fresh  
-
+- 📝 Add tasks with **priority levels** (Low / Medium / High)
+- 📅 Optional **due date** input (`yyyy-MM-dd` format)
+- ✅ Mark tasks as complete
+- ❌ Delete individual tasks
+- 🧹 Clear all completed tasks
+- 🖱️ Double-click to edit task details
+- 🎨 Custom cell rendering based on task priority and completion status
 
 ---
 
-## Getting Started
+## 🛠️ Tech Stack
 
-### Prerequisites
+- **Java 8+**
+- **Swing** for UI components
+- **JList + DefaultListModel** for dynamic task display
 
-- Java 17 or above  
-- Eclipse/IntelliJ or any Java IDE  
+---
 
-### How to Run
+## 🖥️ How to Run
 
-1. Clone the repo:  
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/tictactoe-java-swing.git
-=======
-# ToDoApp
-It is a a to do app which help to schedule and prioritize tasks.
->>>>>>> c8c5214c5d4a645da644ef0e144fe0f2a012bcda
+   git clone https://github.com/Viswa184/ToDoApp.git
