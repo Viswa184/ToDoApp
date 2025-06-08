@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 
@@ -35,3 +36,7 @@ A classic **Tic-Tac-Toe** game built in Java Swing featuring two game modes:
 1. Clone the repo:  
    ```bash
    git clone https://github.com/yourusername/tictactoe-java-swing.git
+=======
+# ToDoApp
+It is a a to do app which help to schedule and prioritize tasks.
+>>>>>>> c8c5214c5d4a645da644ef0e144fe0f2a012bcda
